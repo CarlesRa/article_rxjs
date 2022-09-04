@@ -1,5 +1,5 @@
 # Entendiendo RxJS
-![rxjs](rxjs.png)
+![rxjs](./images/rxjs.png)
 ## Introducción  
 
 Buenas a todas, este es el primero de una serie de artículos en los que vamos a entender poco a poco y con ejemplos la librería RxJS. Aprenderemos los conceptos básicos y veremos ejemplos prácticos que podremos utilizar en nuestro día a día.  
